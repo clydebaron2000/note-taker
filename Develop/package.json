@@ -1,11 +1,10 @@
 {
     "name": "note-taker",
     "version": "1.0.0",
-    "description": "",
+    "description": "note taking app",
     "main": "server.js",
     "scripts": {
-        "start": "node server.js",
-        "test": "set DEBUG=express:* & node server.js"
+        "start": "node server.js"
     },
     "author": "",
     "license": "ISC",
