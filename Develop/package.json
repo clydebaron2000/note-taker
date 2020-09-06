@@ -1,0 +1,19 @@
+{
+    "name": "note-taker",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js",
+        "test": "set DEBUG=express:* & node server.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "debug": "^4.1.1",
+        "express": "^4.17.1",
+        "fs": "0.0.1-security",
+        "path": "^0.12.7",
+        "util": "^0.12.3"
+    }
+}
