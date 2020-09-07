@@ -14,7 +14,7 @@ An application that can be used to write, save, and delete notes. This applicati
 
 Deployed with heroku at https://note-taker-cbr.herokuapp.com/
 
-<img src="./pic/deployed.PNG">
+<img src="./pic/deployed.PNG" alt="deployed note taker website">
 ---
 
 ## Table of Contents 
