@@ -7,7 +7,6 @@
 ![node.js](https://img.shields.io/badge/Dependencies-node.js-green)
 
 ![path](https://img.shields.io/badge/npm-path-blue)
-![util](https://img.shields.io/badge/npm-util-blue)
 ![express](https://img.shields.io/badge/npm-express-blue)
 
 An application that can be used to write, save, and delete notes. This application uses an `express` backend and save and retrieve note data from a JSON file.
